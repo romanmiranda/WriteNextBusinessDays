@@ -1,0 +1,11 @@
+{
+    "name": "WriteNextBusinessDays",
+    "version": "1.0.0",
+    "description": "Sublime Text plugin to write next business days",
+    "author": "Roman Miranda",
+    "email": "romanalberto.m@gmail.com",
+    "url": "https://github.com/romanmiranda/WriteNextBusinessDays",
+    "license": "MIT",
+    "platforms": ["windows", "osx", "linux"],
+    "dependencies": {}
+}
